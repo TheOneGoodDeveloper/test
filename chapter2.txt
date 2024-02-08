@@ -1,0 +1,4 @@
+now use git add .
+- git commit -m
+- git status
+git diff file name l
